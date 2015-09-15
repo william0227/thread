@@ -1,0 +1,6 @@
+D:\test\线程\02-进程池\bin\Debug\02-进程池.exe.config
+D:\test\线程\02-进程池\bin\Debug\02-进程池.exe
+D:\test\线程\02-进程池\bin\Debug\02-进程池.pdb
+D:\test\线程\02-进程池\obj\Debug\02-进程池.csprojResolveAssemblyReference.cache
+D:\test\线程\02-进程池\obj\Debug\02-进程池.exe
+D:\test\线程\02-进程池\obj\Debug\02-进程池.pdb

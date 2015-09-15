@@ -1,0 +1,5 @@
+D:\test\线程\03-反射\bin\Debug\03-反射.exe.config
+D:\test\线程\03-反射\bin\Debug\03-反射.exe
+D:\test\线程\03-反射\bin\Debug\03-反射.pdb
+D:\test\线程\03-反射\obj\Debug\03-反射.exe
+D:\test\线程\03-反射\obj\Debug\03-反射.pdb

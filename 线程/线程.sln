@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-线程", "01-线程\01-线程.csproj", "{0155E0EF-1F59-4746-8E47-1D464B9E6B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-进程池", "02-进程池\02-进程池.csproj", "{04AEF7BC-EB60-4234-AB1F-6AE0A7A2B899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03-反射", "03-反射\03-反射.csproj", "{44C28C23-B84B-4E3A-9F01-31E06B1B64D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0155E0EF-1F59-4746-8E47-1D464B9E6B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0155E0EF-1F59-4746-8E47-1D464B9E6B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0155E0EF-1F59-4746-8E47-1D464B9E6B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0155E0EF-1F59-4746-8E47-1D464B9E6B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AEF7BC-EB60-4234-AB1F-6AE0A7A2B899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AEF7BC-EB60-4234-AB1F-6AE0A7A2B899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AEF7BC-EB60-4234-AB1F-6AE0A7A2B899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AEF7BC-EB60-4234-AB1F-6AE0A7A2B899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44C28C23-B84B-4E3A-9F01-31E06B1B64D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C28C23-B84B-4E3A-9F01-31E06B1B64D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C28C23-B84B-4E3A-9F01-31E06B1B64D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C28C23-B84B-4E3A-9F01-31E06B1B64D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

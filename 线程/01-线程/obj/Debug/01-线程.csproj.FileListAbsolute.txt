@@ -1,0 +1,6 @@
+D:\test\线程\01-线程\bin\Debug\01-线程.exe.config
+D:\test\线程\01-线程\bin\Debug\01-线程.exe
+D:\test\线程\01-线程\bin\Debug\01-线程.pdb
+D:\test\线程\01-线程\obj\Debug\01-线程.csprojResolveAssemblyReference.cache
+D:\test\线程\01-线程\obj\Debug\01-线程.exe
+D:\test\线程\01-线程\obj\Debug\01-线程.pdb
